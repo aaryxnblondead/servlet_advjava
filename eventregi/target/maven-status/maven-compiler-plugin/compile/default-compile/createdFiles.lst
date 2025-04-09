@@ -1,0 +1,9 @@
+com\eventregi\dao\EventDAO.class
+com\eventregi\servlet\EventListServlet.class
+com\eventregi\servlet\HomeServlet.class
+com\eventregi\servlet\EventDetailServlet.class
+com\eventregi\dao\DatabaseConnection.class
+com\eventregi\model\Registration.class
+com\eventregi\model\Event.class
+com\eventregi\dao\RegistrationDAO.class
+com\eventregi\servlet\RegistrationServlet.class
