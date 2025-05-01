@@ -1,0 +1,13 @@
+[2025-05-01 12:39:55] [info]  [15904] Apache Commons Daemon procrun (1.4.1.0 64-bit) started.
+[2025-05-01 12:39:55] [info]  [15904] Running Service 'Tomcatv1'...
+[2025-05-01 12:39:55] [info]  [15960] Starting service...
+[2025-05-01 12:39:55] [error] [15960] Invalid RuntimeLib specified 'C:\Program Files\Java\jre1.8.0_441\bin\server\jvm.dll'
+[2025-05-01 12:39:55] [error] [15960] The system cannot find the path specified.
+[2025-05-01 12:39:55] [error] [15960] Failed to load JVM DLL 'C:\Program Files\Java\jre1.8.0_441\bin\server\jvm.dll', home '(null)'.
+[2025-05-01 12:39:55] [error] [15960] The system cannot find the path specified.
+[2025-05-01 12:39:55] [error] [15960] Failed creating Java 'C:\Program Files\Java\jre1.8.0_441\bin\server\jvm.dll'.
+[2025-05-01 12:39:55] [error] [15960] The system cannot find the path specified.
+[2025-05-01 12:39:55] [error] [15960] ServiceStart returned 1.
+[2025-05-01 12:39:55] [error] [15960] The system cannot find the path specified.
+[2025-05-01 12:39:55] [info]  [15904] Run service finished.
+[2025-05-01 12:39:55] [info]  [15904] Apache Commons Daemon procrun finished.
